@@ -1,0 +1,9 @@
+flask
+openai
+markdown
+weasyprint
+uwsgi
+requests
+flask_cors
+matplotlib
+pandas

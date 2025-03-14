@@ -1,0 +1,68 @@
+Altenquotient
+Anteil 0- bis 2-Jährige
+Anteil 10- bis 15-Jährige
+Anteil 16- bis 18-Jährige
+Anteil 19- bis 24-Jährige
+Anteil 25- bis 44-Jährige
+Anteil 3- bis 5-Jährige
+Anteil 45- bis 64-Jährige
+Anteil 65- bis 79-Jährige
+Anteil 65- bis 79-Jährige - Frauen
+Anteil 65- bis 79-Jährige - Männer
+Anteil 6- bis 9-Jährige
+Anteil ab 65-Jährige
+Anteil ab 80-Jährige
+Anteil ab 80-Jährige - Frauen
+Anteil ab 80-Jährige - Männer
+Anteil Elternjahrgänge - Frauen
+Anteil Elternjahrgänge - Gesamt
+Anteil Elternjahrgänge - Männer
+Anteil Generation Boomer
+Anteil Generation X (Gen X)
+Anteil Generation Y (Gen Y)
+Anteil Generation Z (Gen Z)
+Anteil unter 18-Jährige
+Bevölkerung
+Bevölkerung 0- bis 2-Jährige
+Bevölkerung 10- bis 15-Jährige
+Bevölkerung 16- bis 18-Jährige
+Bevölkerung 19- bis 24-Jährige
+Bevölkerung 25- bis 44-Jährige
+Bevölkerung 3- bis 5-Jährige
+Bevölkerung 45- bis 64-Jährige
+Bevölkerung 65- bis 79-Jährige
+Bevölkerung 6- bis 9-Jährige
+Bevölkerung ab 80-Jährige
+Bevölkerung (Pflege)
+Bevölkerungsanteil - Frauen
+Bevölkerungsanteil - Männer
+Bevölkerungsentwicklung
+Durchschnittsalter
+Entwicklung 0- bis 2-Jährige
+Entwicklung 10- bis 15-Jährige
+Entwicklung 16- bis 18-Jährige
+Entwicklung 19- bis 24-Jährige
+Entwicklung 25- bis 44-Jährige
+Entwicklung 3- bis 5-Jährige
+Entwicklung 45- bis 64-Jährige
+Entwicklung 65- bis 79-Jährige
+Entwicklung 6- bis 9-Jährige
+Entwicklung ab 80-Jährige
+Fortzüge
+Geburten
+Generation Boomer
+Generation Boomer - Relative Entwicklung
+Generation X (Gen X)
+Generation X - Relative Entwicklung
+Generation Y (Gen Y)
+Generation Y - Relative Entwicklung
+Generation Z (Gen Z)
+Generation Z - Relative Entwicklung
+Jugendquotient
+Medianalter
+Natürliche Bevölkerungsentwicklung
+Natürlicher Saldo
+Sterbefälle
+Total Fertility Rate (TFR)
+Wanderungssaldo
+Zuzüge
