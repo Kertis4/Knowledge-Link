@@ -7,7 +7,7 @@ from flask_cors import CORS, cross_origin
 from plot_script import plot_change_over_time_from_csv
 app = Flask(__name__)
 cors = CORS(app)
-oai_client = OpenAI(api_key="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")
+oai_client = OpenAI(api_key="redacted")
 
 federal_states = []
 with open("federal_states.txt") as f:
